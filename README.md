@@ -18,10 +18,9 @@
 11:15 am – 12:00 pm |	Azure Cosmos DB Request Units, Azure Cosmos DB Resource Model |	Azure Cosmos DB Indexing, Azure Cosmos DB Querying |	Networking overview and considerations, Security considerations
 12:00 - 1:00 pm |	Lunch
 1:00 - 2:00 pm |	Creating a partitioned solution using Azure Cosmos DB (Hands on) |	Authoring Azure Cosmos DB Stored Procedures using JavaScript (Hands on) |	Introduction to SQL Managed Instance (hands on)
-2:00 - 3:00 pm |	Azure Cosmos DB Partitioning, Azure Cosmos DB Object Model Design |	Azure Cosmos DB Concurrency, Azure Cosmos DB Transactions, Azure Cosmos DB Change Feed |	Migration overview. Migration using SQL Managed Instance (hands on)
+2:00 - 3:00 pm |	Azure Cosmos DB Partitioning, Azure Cosmos DB Object Model Design |	Azure Cosmos DB Concurrency, Azure Cosmos DB Transactions, Azure Cosmos DB Change Feed | Migration overview. Migration using SQL Managed Instance (hands on)
 3:00 - 3:15 pm |	Break
-3:15 - 4:15 pm |	Querying an Azure Cosmos DB Database using the SQL API (Hands on) |	Azure Cosmos DB Security
-Azure Cosmos DB Troubleshooting |	Connecting to Managed Instance, Additional topics
+3:15 - 4:15 pm | Querying an Azure Cosmos DB Database using the SQL API (Hands on) | Azure Cosmos DB Security and Troubleshooting | Connecting to Managed Instance, Additional topics
 4:15 - 5:00 pm | Discussion, Q&A |	Discussion, Q&A |	Discussion, Q&A
 
 
