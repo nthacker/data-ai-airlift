@@ -11,17 +11,18 @@
 
 | Start	and End	| Day 1	| Day 2	| Day 3 |
 | --- | --- | --- | --- |
-8:30 – 9:00 am	| Registrations & Kick-off |	Recap & Introduction to SQL Managed Instance, value proposition, benefits |	Recap & Introduction to Cosmos DB
-9:00 – 10:00 am	| SQL Server 2017 customer use cases and scenarios. What’s new in SQL Server 2017 and SQL Server 2019 |	Managed Instance architecture, Features, Management |	Reviewing Azure Cosmos DB (hands on)
-10:00 – 11:00 am	| SQL Server on Linux and Docker containers, SQL Server 2017 Performance |	Networking overview and considerations, Security considerations |	Partitioning Cosmos DB (hands on)
+8:30 – 9:00 am	| Registrations & Kick-off |	Azure Cosmos DB Pricing and Costs |	Registrations & Kick-off
+9:00 – 10:00 am	| Azure Cosmos DB Overview |	Azure Cosmos DB Global Distribution |	Introduction to SQL Managed Instance
+10:00 – 11:00 am	| Azure Cosmos DB Overview cont |	Azure Cosmos DB Consistency Models |	Managed Instance architecture, Features, Management
 11:00 –11:15 am	| Break 
-11:15 am – 12:00 pm |	HADR, Security, ML Services, Polybase, Graph |	Introduction to SQL Managed Instance (hands on) |	Querying Cosmos DB (hands on)
+11:15 am – 12:00 pm |	Azure Cosmos DB Request Units, Azure Cosmos DB Resource Model |	Azure Cosmos DB Indexing, Azure Cosmos DB Querying |	Networking overview and considerations, Security considerations
 12:00 - 1:00 pm |	Lunch
-1:00 - 2:00 pm |	SQL Server on Linux and Docker, Automatic Tuning, Security (hands on) |	Migration overview. Migration using SQL Managed Instance (hands on) |	Programming with Cosmos DB (hands on)
-2:00 - 3:00 pm |	Always On Availability Groups on Red Hat Enterprise Linux (hands on) |	Connecting to Managed Instance, Additional topics |	Troubleshooting Cosmos DB (hands on)
+1:00 - 2:00 pm |	Creating a partitioned solution using Azure Cosmos DB (Hands on) |	Authoring Azure Cosmos DB Stored Procedures using JavaScript (Hands on) |	Introduction to SQL Managed Instance (hands on)
+2:00 - 3:00 pm |	Azure Cosmos DB Partitioning, Azure Cosmos DB Object Model Design |	Azure Cosmos DB Concurrency, Azure Cosmos DB Transactions, Azure Cosmos DB Change Feed |	Migration overview. Migration using SQL Managed Instance (hands on)
 3:00 - 3:15 pm |	Break
-3:15 - 4:15 pm |	Graph, Polybase, ML Services (hands on) |	Hands on VM – Demo scripts (hands on) |	Modeling & Planning (hands on)
-4:15 - 5:00 pm |	SQL Server Samples in GitHub (hands on), Discussion, Q&A |	Discussion, Q&A |	Discussion, Q&A
+3:15 - 4:15 pm |	Querying an Azure Cosmos DB Database using the SQL API (Hands on) |	Azure Cosmos DB Security
+Azure Cosmos DB Troubleshooting |	Connecting to Managed Instance, Additional topics
+4:15 - 5:00 pm | Discussion, Q&A |	Discussion, Q&A |	Discussion, Q&A
 
 
 ## Labs
